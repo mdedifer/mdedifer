@@ -1,12 +1,4 @@
-<h1>👋 Hola, soy Miguel</h1>
-
-<p>
-  Estudiante de Ingeniería Informática | Perfil híbrido: Tecnología + Negocio + Producto  
-</p>
-
----
-
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 - 🎓 Estudiante de Ingeniería Informática (UAX)
 - 🚀 Perfil híbrido entre desarrollo, análisis, estrategia y producto
