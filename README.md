@@ -1,16 +1,16 @@
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Estudiante de Ingeniería Informática (UAX)
-- 🚀 Perfil híbrido entre desarrollo, análisis, estrategia y producto
-- 💡 Me interesa cómo conectar la tecnología con el crecimiento del negocio
-- 🧠 Mentalidad analítica, estructurada y orientada a la toma de decisiones
-- 🏗️ Experiencia real emprendiendo (PrivaPadel, Insomnium Series)
-- 🔍 Buscando roles donde se mezclen: tecnología + negocio + innovación
+- 🎓 Computer Science Engineering student (UAX) [+ Business % Product Innovation Certificate]
+- 🚀 Hybrid profile combining development, analysis, business and product thinking
+- 💡 Passionate about connecting technology with real business needs
+- 🧠 Analytical, structured and decision-oriented mindset
+- 🏗️ Real-world entrepreneurial experience
+- 🔍 Interested in product, tech strategy, innovation and full-stack development
 
 
 ## 🌐 Socials
-<p>
-  <a href="https://www.linkedin.com/in/miguel-de-dios-fernández/" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/miguel-de-dios-fern%C3%A1ndez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -32,13 +32,14 @@
 </p>
 
 
+## 🚀 Coming Soon
 
-## 🚀 Próximamente
-Actualmente estoy construyendo proyectos propios relacionados con:
+I'm currently working on several personal and business-oriented tech projects, including:
 
-- 🌐 Desarrollo web & APIs  
-- 📊 Datos y visualización  
-- 🧩 Soluciones tech orientadas a negocio  
-- 🏗️ Arquitectura y sistemas  
+- 🌐 Web applications & APIs  
+- 📊 Data & visualization tools  
+- 🧩 Business-driven technical solutions  
+- 🏗️ Architecture and system design  
 
-¡Los iré subiendo pronto!  
+New repositories will be added soon!
+
