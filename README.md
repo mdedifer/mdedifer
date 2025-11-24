@@ -1,11 +1,11 @@
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Engineering student (UAX) [+ Business % Product Innovation Certificate]
-- 🚀 Hybrid profile combining development, analysis, business and product thinking
+- 🎓 Computer Science Engineering student (UAX) with a project-based aproach + Business & Product Innovation Certificate
+- 🔄 Hybrid mindset: Tech + Business
 - 💡 Passionate about connecting technology with real business needs
-- 🧠 Analytical, structured and decision-oriented mindset
-- 🏗️ Real-world entrepreneurial experience
-- 🔍 Interested in product, tech strategy, innovation and full-stack development
+- 🧠 Analytical, structured thinker with a practical, decision-driven approach
+- 🚀 Real-world entrepreneurial experience
+- 🔍 Interested in roles where engineering meets business — product, tech strategy, startups, consulting and full-stack development
 
 
 ## 🌐 Socials
